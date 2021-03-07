@@ -19,7 +19,7 @@ main_menu:
   - title: Sklep
     url: /store
     style: link
-  - title: About
+  - title: O nas
     url: /about
     style: link
   - title: FAQ
